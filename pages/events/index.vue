@@ -1,3 +1,4 @@
 <template>
-  <div>Hi from the Events page</div>
+  <div">Hi from the Events page</div>
+  <Details />
 </template>
